@@ -14,8 +14,8 @@ Saya sekarang insyaa Allah dengan izin Allah Ta'ala akan memfokuskan ke bidang *
 
 
 <p align="center">
-  <img src="design/design-1.jpg" width="473" height="473" alt="Design 1">
-  <img src="design/design-2.jpg" width="473" height="473" alt="Design 2">
+  <img src="design/design-1.jpg" width="350" height="350" alt="Design 1">
+  <img src="design/design-2.jpg" width="350" height="350" alt="Design 2">
 </p>
 
 
