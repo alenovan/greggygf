@@ -11,8 +11,8 @@ FREE! Kalian bisa memakai tugasku sebagai tugas perkuliahanmu, asalkan kalian ga
 Saya sekarang insyaa Allah dengan izin Allah Ta'ala akan memfokuskan ke bidang User Interface dan User Experience hehe. Ini sebagian hasil karya saya!
 
 <p align="center">
-  <img src="design/design-1.png" alt="Design 1">
-  <img src="design/design-2.png" alt="Design 2">
+  <img src="design/design-1.jpg" alt="Design 1">
+  <img src="design/design-2.jpg" alt="Design 2">
 </p>
 
 ## Mau menghubungi saya? Silahkan!
